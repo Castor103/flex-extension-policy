@@ -19,4 +19,4 @@
 <p>Users can disable the extension or remove it from Chrome settings at any time.</p>
 
 <h2>Contact Us</h2>
-<p>If you have any questions or concerns about this Privacy Policy, please contact us at example@domain.com.</p>
+<p>If you have any questions or concerns about this Privacy Policy, please contact us at castor@naraspace.com.</p>
