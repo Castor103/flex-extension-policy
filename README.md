@@ -1,7 +1,7 @@
 # flex-extension-policy
 
-<h1>Privacy Policy for Flex 근무 계산 확장 (by NARASPACE)</h1>
-<p>This Privacy Policy explains how we collect, use, and protect information in the "Flex 근무 계산 확장 (by NARASPACE)" Chrome extension.</p>
+<h1>Privacy Policy for 'Flex 근무 계산 확장'</h1>
+<p>This Privacy Policy explains how we collect, use, and protect information in the "Flex 근무 계산 확장" Chrome extension.</p>
 
 <h2>Information We Collect</h2>
 <p>The extension processes HTML data from the Flex website (flex.team) to calculate working hours and display relevant information. No personal data, such as usernames, passwords, or cookies, is collected or stored.</p>
