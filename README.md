@@ -15,6 +15,14 @@
 <h2>Third-Party Sharing</h2>
 <p>We do not share user data with any third parties.</p>
 
+<h2>Limitations and User Responsibility</h2>
+<p>
+The working hour calculations provided by this extension are based on parsing the structure of the Flex website and may not always be accurate due to technical limitations or changes in the website's layout. Users should be aware of these potential inaccuracies when interpreting the results.
+</p>
+<p>
+The developers of this extension are not responsible for any consequences, losses, or misunderstandings that may arise from the use of potentially inaccurate calculations. This extension is provided as a convenience tool, and its use is at the discretion and responsibility of the user.
+</p>
+
 <h2>Your Rights</h2>
 <p>Users can disable the extension or remove it from Chrome settings at any time.</p>
 
